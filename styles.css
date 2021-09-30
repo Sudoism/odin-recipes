@@ -1,0 +1,14 @@
+* {
+    font-family: sans-serif;
+    background-color: rgb(240, 228, 218);
+}
+
+h1 { 
+    font-family: sans-serif;
+    color:rgb(22, 25, 43);
+}
+
+a {
+    color: black;
+    font-style:italic;
+}
